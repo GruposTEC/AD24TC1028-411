@@ -1,0 +1,6 @@
+Pensamiento Computacional para Ingenieria TC1028.411
+Todos los códigos generados en la clase se podrán ver en está página en Github
+
+Una introducción a Git y GitHub puede encontrarse en el arículo : An Intro to Git and GitHub for Beginners Part I (Tutorial)
+
+Acceso desde tu computadora
